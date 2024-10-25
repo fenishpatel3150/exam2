@@ -12,4 +12,3 @@ https://github.com/user-attachments/assets/84298a9a-b7db-4d7a-8063-d298efdc8b2f
 
 https://github.com/user-attachments/assets/acfbb8e7-0768-4bb4-9ab1-c2337c04f33e
 
-![Screenshot_20241025_183553](https://github.com/user-attachments/assets/fb7aac65-84d2-4638-94c4-d49c41f809c5)
