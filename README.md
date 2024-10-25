@@ -1,16 +1,15 @@
-# exam2
+<img src="https://github.com/user-attachments/assets/fb7aac65-84d2-4638-94c4-d49c41f809c5" alt="" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/1ec45708-fdf5-4fb0-b66f-68d4dda8199e" alt="" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/f0a51ff8-7950-48ca-81f9-5b3d265874fd" alt="" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/89f20d15-6420-4886-ba77-6a454d0caefc" alt="" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/136cd433-f64c-4ce9-82c7-949ff735df12" alt="" width="300" height="auto">
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/84298a9a-b7db-4d7a-8063-d298efdc8b2f
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/acfbb8e7-0768-4bb4-9ab1-c2337c04f33e
+
+![Screenshot_20241025_183553](https://github.com/user-attachments/assets/fb7aac65-84d2-4638-94c4-d49c41f809c5)
